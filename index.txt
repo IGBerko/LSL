@@ -1,0 +1,6 @@
+# lsl index: name  link-or-path  [sha256]
+debian https://github.com/IGBerko/LSL/releases/download/deb1307/debian-live-13.7.0-amd64-standard.iso
+fedora https://dl.fedoraproject.org/pub/fedora/linux/releases/44/Workstation/x86_64/iso/Fedora-Workstation-Live-44-1.7.x86_64.iso
+ubuntu https://releases.ubuntu.com/26.04.1/ubuntu-26.04.1-live-server-amd64.iso
+# mefora: add when the author gives permission and a link
+# mefora https://github.com/IGBerko/LSL/releases/download/<tag>/<file>.iso
